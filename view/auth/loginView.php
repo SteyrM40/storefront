@@ -1,5 +1,3 @@
-
-
       <!-- page content -->
       <div class="offset3 span6">
         <div class="well">
