@@ -13,6 +13,10 @@
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
-
+    <script>
+        $(document).ready(function(){
+        $('.carousel').carousel();
+        });
+    </script>
   </body>
 </html>

@@ -5,13 +5,11 @@
             <div id="slider" class="carousel slide span10 offset1">
 
                 <ol class="carousel-indicators">
-                    <ul>
-                        <li data-target="#slider" data-slide-to="0" class="active"></li>
-                        <li data-target="#slider" data-slide-to="1" class=""></li>
-                        <li data-target="#slider" data-slide-to="2" class=""></li>
-                        <li data-target="#slider" data-slide-to="3" class=""></li>
-                        <li data-target="#slider" data-slide-to="4" class=""></li>
-                    </ul>
+                    <li data-target="#slider" data-slide-to="0" class="active"></li>
+                    <li data-target="#slider" data-slide-to="1" class=""></li>
+                    <li data-target="#slider" data-slide-to="2" class=""></li>
+                    <li data-target="#slider" data-slide-to="3" class=""></li>
+                    <li data-target="#slider" data-slide-to="4" class=""></li>
                 </ol>
 
                 <div class="carousel-inner">
