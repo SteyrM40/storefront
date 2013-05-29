@@ -2,7 +2,7 @@
 
 
 # Setup Applictation Directory Structure
-define("APP_DOC_ROOT", "/storefront");
+define("APP_DOC_ROOT", "/project");
 define("APP_DIR_ROOT", dirname ( dirname ( __FILE__ ) ) );
 
 # These should be fine as is
